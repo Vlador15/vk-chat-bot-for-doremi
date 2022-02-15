@@ -1,8 +1,7 @@
-<h3>Pet-project: currency converter</h3>
+<h3>Pet-project: VK Бот для группы мебельного магазина ДоРеМи</h3>
 
 <p>Стек:</p>
-<ul>
-    <li>Html</li>
-    <li>Css</li>
-    <li>Js</li>
+<ul> 
+    <li>Node.js</li>
+    <li>VK.IO</li>
 </ul>
