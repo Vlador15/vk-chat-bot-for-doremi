@@ -1,0 +1,19 @@
+{
+	"posts": {
+		"213": {
+			"post_id": 213,
+			"concurs": false,
+			"type": "recommendations",
+			"box": false,
+			"users": [
+				{
+					"vk": 459607222,
+					"id": 1,
+					"balance": 100,
+					"status": false
+				}
+			],
+			"number": 2
+		}
+	}
+}

@@ -1,0 +1,260 @@
+[
+    {
+      "id": 1,
+      "name": "акции",
+      "urls": [
+        {
+          "name": "акции",
+          "url": "https://vk.com/market-30313045?section=album_47",
+          "short_url": "https://vk.cc/c4oErl",
+          "key": "c4oErl" 
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "диваны",
+      "urls": [
+        {
+          "name": "прямые диваны",
+          "url": "https://vk.com/market-30313045?section=album_72",
+          "short_url": "https://vk.cc/c4oEF3",
+          "key": "c4oEF3"
+        },
+        {
+          "name": "угловые диваны",
+          "url": "https://vk.com/market-30313045?section=album_73",
+          "short_url": "https://vk.cc/c4oEJl",
+          "key": "c4oEJl"
+        },
+        {
+          "name": "диваны трансформеры",
+          "url": "https://vk.com/market-30313045?section=album_74",
+          "short_url": "https://vk.cc/c4oEX4",
+          "key": "c4oEX4"
+        } 
+      ]
+    },
+    {
+      "id": 3,
+      "name": "матрасы и чехлы",
+      "urls": [
+        {
+          "name": "матрасы и чехлы",
+          "url": "https://vk.com/market-30313045?section=album_15",
+          "short_url": "https://vk.cc/c4oFcu",
+          "key": "c4oFcu"
+        },
+        {
+          "name": "беспружинные матрасы",
+          "url": "https://vk.com/market-30313045?section=album_65",
+          "short_url": "https://vk.cc/c4oFsK",
+          "key": "c4oFsK"
+        },
+        {
+          "name": "рулонные матрасы",
+          "url": "https://vk.com/market-30313045?section=album_66",
+          "short_url": "https://vk.cc/c4oFvC",
+          "key": "c4oFvC"
+        },
+        {
+          "name": "подушки для сна",
+          "url": "https://vk.com/market-30313045?section=album_77",
+          "short_url": "https://vk.cc/c4oFAj",
+          "key": "c4oFAj"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "шкафы-купе",
+      "urls": [
+        {
+          "name": "шкафы-купе",
+          "url": "https://vk.com/market-30313045?section=album_5",
+          "short_url": "https://vk.cc/c4oFID", 
+          "key": "c4oFID"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "шкафы распашные",
+      "urls": [
+        {
+          "name": "шкафы распашные",
+          "url": "https://vk.com/market-30313045?section=album_62",
+          "short_url": "https://vk.cc/c4oFMW",
+          "key": "c4oFMW"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "гостиные",
+      "urls": [
+        {
+          "name": "гостиные",
+          "url": "https://vk.com/market-30313045?section=album_4",
+          "short_url": "https://vk.cc/c4oFXm",
+          "key": "c4oFXm"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "кровати",
+      "urls": [
+        {
+          "name": "кровати",
+          "url": "https://vk.com/market-30313045?section=album_13",
+          "short_url": "https://vk.cc/c4oG0l",
+          "key": "c4oG0l"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "спальные гарнитуры",
+      "urls": [
+        {
+          "name": "спальные гарнитуры",
+          "url": "https://vk.com/market-30313045?section=album_11",
+          "short_url": "https://vk.cc/c4oGb0",
+          "key": "c4oGb0"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "компьютерные столы",
+      "urls": [
+        {
+          "name": "компьютерные столы",
+          "url": "https://vk.com/market-30313045?section=album_10",
+          "short_url": "https://vk.cc/c4oHCi",
+          "key": "c4oHCi" 
+        } 
+      ]
+    },
+    {
+      "id": 10,
+      "name": "всё для детей",
+      "urls": [
+        {
+          "name": "детская мебель",
+          "url": "https://vk.com/market-30313045?section=album_8",
+          "short_url": "https://vk.cc/c4oGLf",
+          "key": "c4oGLf"
+        },
+        {
+          "name": "детские диваны",
+          "url": "https://vk.com/market-30313045?section=album_75",
+          "short_url": "https://vk.cc/c4oGQl",
+          "key": "c4oGQl"
+        },
+        {
+          "name": "двухярусные кровати",
+          "url": "https://vk.com/market-30313045?section=album_71",
+          "short_url": "https://vk.cc/c4oGSW",
+          "key": "c4oGSW"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "детские матрасы",
+      "urls": [
+        {
+          "name": "детские матрасы",
+          "url": "https://vk.com/market-30313045?section=album_64",
+          "short_url": "https://vk.cc/c4oGZX",
+          "key": "c4oGZX"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "комоды",
+      "urls": [
+        {
+          "name": "комоды",
+          "url": "https://vk.com/market-30313045?section=album_9",
+          "short_url": "https://vk.cc/c4oH8u",
+          "key": "c4oH8u"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "тв тумбы",
+      "urls": [
+        {
+          "name": "тумбы под тв",
+          "url": "https://vk.com/market-30313045?section=album_36",
+          "short_url": "https://vk.cc/c7ue0I",
+          "key": "c7ue0I"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "прихожие",
+      "urls": [
+        {
+          "name": "прихожие",
+          "url": "https://vk.com/market-30313045?section=album_6",
+          "short_url": "https://vk.cc/c4oHjx",
+          "key": "c4oHjx"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "кресла",
+      "urls": [
+        {
+          "name": "кресла",
+          "url": "https://vk.com/market-30313045?section=album_17",
+          "short_url": "https://vk.cc/c4oF0q",
+          "key": "c4oF0q"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "малые формы",
+      "urls": [
+        {
+          "name": "малые формы",
+          "url": "https://vk.com/market-30313045?section=album_14",
+          "short_url": "https://vk.cc/7Gf8qU",
+          "key": "7Gf8qU" 
+        },
+        {
+          "name": "журнальные столики",
+          "url": "https://vk.com/market-30313045?section=album_7",
+          "short_url": "https://vk.cc/c4oHzw",
+          "key": "c4oHzw" 
+        },
+        {
+          "name": "туаленые столики",
+          "url": "https://vk.com/market-30313045?section=album_58",
+          "short_url": "https://vk.cc/c4oHxQ",
+          "key": "c4oHxQ" 
+        }
+      ] 
+    }, 
+    {
+      "id": 16,
+      "name": "в наличии",
+      "urls": [
+        {
+          "name": "в наличии",
+          "url": "https://vk.com/market-30313045?section=album_76",
+          "short_url": "https://vk.cc/c4oHlB",
+          "key": "c4oHlB"
+        }
+      ]
+    } 
+  ]
